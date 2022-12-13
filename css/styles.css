@@ -1,0 +1,232 @@
+#title
+{
+    background-color: #ff4c68;
+    color: white;
+    background-size: cover;
+}
+/* .col-md-6
+{
+    width:50%;
+} */
+h1
+{
+    font-family: "Montserrat-Black";
+    font-weight: bolder;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+.container-fluid
+{
+    padding: 3% 15%;
+}
+
+body
+{
+    font-family: "Montserrat-Black"
+}
+
+.row
+{
+    padding: 5%;
+}
+
+.col-md-6
+{
+    padding: 5%;
+    height: 50%;
+}
+
+.btn
+{
+   padding: 2% 5%;
+   margin: 3%;
+
+}
+
+
+.fa-brands
+{
+    padding-right: 6%;
+}
+/* NAVIGATION BAR */
+
+.navbar-brand
+{
+    font-family: Freehand;
+    font-size: 3rem;
+    font-weight: bold;
+    padding-right: 37%;
+    padding-left: 9%;
+}
+
+.nav-item
+{
+    padding:2rem;
+}
+
+.nav-link
+{
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
+/* .image
+{
+    position: absolute;
+    top:20%
+    left:70%;
+    transform: rotate(45deg);
+} */
+
+.title-image
+{
+    height: 660%;
+    transform: rotate(20deg);
+    width:70%;
+    position: absolute;
+    padding-left: 5%;
+}
+
+.h1in
+{
+    padding-bottom: 3%;
+}
+
+.icon
+{
+    color:#ef8172;
+}
+
+.icon:hover
+{
+    color: pink;
+}
+
+h3
+{
+    font-family:montserrat-bold;
+    font-size: 1.5rem;
+}
+
+p
+{
+    color: #8B8f8f;
+}
+
+#features
+{
+    text-align: center;
+    padding: 7% 15%;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+}
+
+.features-box
+{
+  text-align: center;
+  margin: 4%;
+}
+.col
+{
+    margin:10%;
+}
+
+#testimonials
+{
+ text-align: center;
+ background-color: #ef8172;
+ color: white;
+ font-family: montserrat;
+}
+
+.img2
+{
+    padding-top:3%;
+    padding-bottom: 2%;
+    border-radius: 200%;
+    width: 20%;
+}
+
+h2
+{
+    font-family: montserrat-bold;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1;
+}
+
+#press
+{
+    background-color: #ef8172;
+    padding-bottom:3%;
+    padding-left: 14%;
+    padding-right: 5%;
+}
+
+.cmpimg
+{
+    width:23%;
+    padding: 3%;
+}
+
+.carousel-item
+{
+    padding: 7% 13%;
+    
+}
+
+#pricing
+{
+    text-align: center;
+}
+
+.heading
+{
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+
+@media screen and (max-width:782px)
+{
+    .row
+    {
+        text-align: center;
+    }
+
+    .title-image
+    {
+        transform: rotate(0deg);
+        padding: auto;
+        position: static;
+    }
+}
+
+#cta
+{
+    background-color: #ef8172;
+    text-align: center;
+}
+
+.h3in
+{
+    font-family: montserrat-black;
+    font-weight: bolder;
+    font-size: 400%;
+    padding-top: 6%;
+    padding-bottom: 3%;
+    color: white;
+}
+
+#footer
+{
+    text-align: center;
+    line-height: 3;
+    padding-top: 4%;
+    background-color: white;
+}
+
+.ico
+{
+    padding:1%;
+}
